@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jane-Priscila17
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Data Science
+- 🌱 I have completed a certification in Data Science
 - 📫 How to reach me janepriscila17@gmail.com
 
 <!---
